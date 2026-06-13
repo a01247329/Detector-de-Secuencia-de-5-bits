@@ -66,6 +66,7 @@ initial
 begin
     $monitor("Cambios en estado o señales");
     $monitor("Entrada = %d, Salida = %d", sequence_in, match_sequence);
+end
 
 initial
 begin
