@@ -1,7 +1,7 @@
 /*  Testbench máquina de estados detector de secuencia
 
     Autores:
-    Victoria Fierro Aveytia A01247288
+    Victoria Fierro Aveytia A01247288 
     Blanca Abigail Mendez Delgado A01247329
 
     Descripcion:
